@@ -304,10 +304,6 @@ img {
   padding: 100px 0;
 }
 
-/* #services .container {
-  padding: 120px 0;
-} */
-
 #services .items {
   display: flex;
   flex-flow: row;
@@ -417,20 +413,6 @@ img {
 #contact .contacts .map {
   margin-left: 1rem;
 }
-
-/* #contact .map-btn {
-  width: 100%;
-  height: 40px;
-  font-size: 1.4rem;
-  font-family: inherit;
-  margin: 10px 0;
-  border: 0;
-  border-radius: 8px;
-}
-
-#contact .map-btn:focus {
-  outline: 0;
-} */
 
 #contact button.map-btn {
   display: none;
